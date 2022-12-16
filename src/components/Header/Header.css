@@ -1,0 +1,18 @@
+body {
+    background-color: var(--background-color);
+}
+
+.profile_content {
+    color: var(--primary-color);
+    text-align: center;
+    margin: 35px 0;
+}
+
+.profile_image {
+    width: 96px;
+    height: 96px;
+    margin: auto;
+    border-radius: 50%;
+    background-image: url("../../assets/perfil.jpg");
+    background-size: cover;
+}

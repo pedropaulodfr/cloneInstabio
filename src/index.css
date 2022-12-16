@@ -1,8 +1,14 @@
+:root {
+  --primary-color: #ffbda1;
+  --secondary-color: #e05576;
+  --tertiary-color: #703951;
+  --quaternary-color: #c9ad9b;
+  --background-color: #452a37;
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: "Montserrat", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
